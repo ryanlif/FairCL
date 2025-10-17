@@ -4,8 +4,4 @@ Data and test code used in the real-world studies for FairCL. This is used as an
 
 To run the code, use the following commands:
 
-CMAPSS:
-
-``` python main_cmapss.py ```
-
 **NOTE:** Due to privacy issues, the TDM and the SSI dataset are not publicly available. 
